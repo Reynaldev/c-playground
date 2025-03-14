@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/array_2d.dir/link.d CMakeFiles/array_2d.dir/array_2d.c.o -o array_2d

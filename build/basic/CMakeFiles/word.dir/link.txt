@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/word.dir/link.d CMakeFiles/word.dir/word.c.o -o word

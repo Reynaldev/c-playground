@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/opencl-test.dir/link.d "CMakeFiles/opencl-test.dir/opencl-test.c.o" -o opencl-test  /usr/lib/libOpenCL.so

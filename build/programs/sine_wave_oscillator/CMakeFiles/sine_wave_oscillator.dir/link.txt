@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/sine_wave_oscillator.dir/link.d CMakeFiles/sine_wave_oscillator.dir/main.c.o -o sine_wave_oscillator  -lm

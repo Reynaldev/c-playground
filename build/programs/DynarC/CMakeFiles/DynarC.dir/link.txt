@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/DynarC.dir/link.d CMakeFiles/DynarC.dir/main.c.o -o DynarC

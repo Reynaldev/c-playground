@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/fizzbuzz.dir/link.d CMakeFiles/fizzbuzz.dir/fizzbuzz.c.o -o fizzbuzz
