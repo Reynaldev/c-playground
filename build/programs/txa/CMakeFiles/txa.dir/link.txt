@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/txa.dir/link.d CMakeFiles/txa.dir/main.c.o -o txa

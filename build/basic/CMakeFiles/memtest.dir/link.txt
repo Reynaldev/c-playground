@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/memtest.dir/link.d CMakeFiles/memtest.dir/memtest.c.o -o memtest

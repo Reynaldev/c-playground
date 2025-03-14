@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/anon_func.dir/link.d CMakeFiles/anon_func.dir/anon_func.c.o -o anon_func

@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/lexico.dir/link.d CMakeFiles/lexico.dir/lexico.c.o -o lexico

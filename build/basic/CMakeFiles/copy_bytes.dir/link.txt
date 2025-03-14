@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/copy_bytes.dir/link.d CMakeFiles/copy_bytes.dir/copy_bytes.c.o -o copy_bytes
